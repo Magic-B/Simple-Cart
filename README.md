@@ -1,35 +1,32 @@
-# simple-cart
+# Simple Cart
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+</br>
+<div align="center">
+  <img height="500px" src="public/demo.gif" />
+</div>
+</br>
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## About Simple Cart 📰
 
-## Customize configuration
+Simple Cart is a lightweight and user-friendly implementation of a shopping cart for websites. It provides a left block where users can easily add and remove items from their cart, and a right block specifically designed for adding a single item to the cart. The left block allows users to conveniently manage multiple items in their cart, making it easy to add new items, remove unwanted items, and view the contents of the cart at a glance. The right block provides a simplified interface for quickly adding a single item to the cart with just one click. The project is aimed at offering a seamless and intuitive experience for managing a user's cart on an e-commerce or online shopping website.
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
+### Installation and startup stages
+```
 npm install
 ```
-
-### Compile and Hot-Reload for Development
-
-```sh
+```
 npm run dev
 ```
 
-### Compile and Minify for Production
-
-```sh
+### Additional commands
+```
 npm run build
 ```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
+```
 npm run lint
 ```
+
+
+### Deployment
+This application can be used on Vercel - https://simple-cart-ecru.vercel.app/
